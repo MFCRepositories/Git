@@ -9,4 +9,6 @@
  
 
 git pull yap
+sana
+
 
