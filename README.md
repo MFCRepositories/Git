@@ -2,4 +2,6 @@
 
 ## Alt Bilgi
 
-[google](http://google.com)
+[Google](http://google.com)
+[MFC](https://mfcblog.me)
+
