@@ -1,0 +1,6 @@
+Versiyonlamak 
+
+#gorseller
+#videolar
+#logolar
+#paket yoneticisi ile kurulmus dosyalar tutulmasına gerek yoktur.
