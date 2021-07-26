@@ -8,7 +8,4 @@
 
  
 
-git pull yap
-sana
-
 
