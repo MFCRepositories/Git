@@ -2,4 +2,4 @@
 
 ## Alt Bilgi
 
-[Google] (htpp://google.com)
+[Google] (http://google.com)
